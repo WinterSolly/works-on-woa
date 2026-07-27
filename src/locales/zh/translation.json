@@ -1,0 +1,451 @@
+{
+  "nav": {
+    "appCompat": "应用兼容性",
+    "apps": "应用",
+    "games": "游戏",
+    "faq": "常见问题",
+    "learn": "学习",
+    "gettingStarted": "入门",
+    "prism": "Prism",
+    "windowsOnArm": "Windows 11",
+    "publishers": "发行商",
+    "customReport": "自定义报告",
+    "contributing": "贡献"
+  },
+  "hero": {
+    "title": "Windows 在 Arm 上运行",
+    "subtitle": "探索为全天性能和电池续航而打造的应用。",
+    "supportedBy": "支持方：",
+    "searchPlaceholder": "搜索应用和游戏",
+    "searchApps": "搜索应用",
+    "searchGames": "搜索游戏",
+    "searchPublishers": "搜索发行商或上传应用进行分析"
+  },
+  "popularApps": {
+    "title": "热门应用程序",
+    "subtitle": "Windows 在 Arm 上支持超过 7,000 个热门应用",
+    "seeAll": "查看所有 Windows 应用",
+    "columns": {
+      "name": "名称",
+      "compatibility": "兼容性",
+      "type": "类型",
+      "developer": "发行商",
+      "category": "类别",
+      "validation": "验证",
+      "updated": "更新日期"
+    }
+  },
+  "microsoftApps": {
+    "title": "Microsoft 应用在 Arm 上运行",
+    "subtitle": "第一方应用程序。100% 经过验证。",
+    "seeAll": "查看所有 Microsoft 应用",
+    "categories": {
+      "productivity": "生产力",
+      "communication": "通讯",
+      "creativity": "创意",
+      "dev-tools": "开发工具",
+      "security": "安全",
+      "it-management": "IT 管理"
+    }
+  },
+  "resources": {
+    "title": "资源",
+    "subtitle": "在 Windows on Arm 上构建、部署和成功所需的一切。",
+    "items": {
+      "gettingStarted": {
+        "title": "开始使用 Windows on Arm",
+        "description": "了解如何设置开发环境、构建第一个 Arm 原生应用并优化性能。"
+      },
+      "prism": {
+        "title": "Prism 内置 x86/x64 模拟",
+        "description": "了解 Prism 转换技术如何使数千个现有应用在 Arm 处理器上无缝运行。"
+      },
+      "windowsOnArm": {
+        "title": "Windows 11 — 专为 Arm 设计",
+        "description": "探索从 Copilot+ PC 到开发者工具，Arm 驱动设备上的完整 Windows 11 体验。"
+      }
+    },
+    "gettingStarted": {
+      "category": "指南",
+      "title": "开始使用 Windows on Arm",
+      "description": "了解如何设置开发环境、构建第一个 Arm 原生应用并优化性能。",
+      "link": "了解更多"
+    },
+    "prism": {
+      "category": "技术",
+      "title": "Prism 内置 x86/x64 模拟",
+      "description": "了解 Prism 转换技术如何使数千个现有应用在 Arm 处理器上无缝运行。",
+      "link": "了解更多"
+    },
+    "windowsOnArm": {
+      "category": "平台",
+      "title": "Windows 11 — 专为 Arm 设计",
+      "description": "探索从 Copilot+ PC 到开发者工具，Arm 驱动设备上的完整 Windows 11 体验。",
+      "link": "了解更多"
+    }
+  },
+  "faq": {
+    "title": "有问题？",
+    "subtitle": "查找关于应用兼容性和 Windows on Arm 的常见问题解答。",
+    "askQuestion": "提问",
+    "contactSales": "联系销售",
+    "items": [
+      {
+        "question": "为什么应该在企业环境中考虑为新 Surface 设备选择 Arm 处理器？",
+        "answer": "基于 Arm 的 Surface 设备在原生和模拟应用程序方面都具有卓越的性能、效率和兼容性。由 Snapdragon X 系列处理器驱动，它们提供出色的电池续航，并与 Microsoft 365 等关键生产力工具无缝集成。Prism 模拟引擎确保 x86/x64 应用程序的顺畅运行，在不牺牲性能的情况下促进向 Arm 架构的轻松过渡。"
+      },
+      {
+        "question": "Microsoft 如何增强了应用性能？",
+        "answer": "Microsoft 持续投资开发者生态系统，以确保 Windows on Arm 上原生和模拟应用的最佳性能。得益于扩展的开发工具和支持，预计近 90% 的应用使用量将来自原生应用。Prism 优化性能并降低 CPU 使用率，使模拟应用的性能可与旧型号上的原生应用持平甚至超越。Microsoft 的 <a href='https://www.microsoft.com/fasttrack/microsoft-365/app-assure' target='_blank' rel='noopener noreferrer'>App Assure 计划</a>免费提供开发者资源，帮助解决应用兼容性问题。"
+      },
+      {
+        "question": "什么是 Prism？",
+        "answer": "Prism 是 Microsoft 的模拟技术，使 x86/x64 应用程序能够在配备 Arm 处理器的 Windows PC 上运行。它无缝地将应用代码转换为在 Arm 架构上运行，优化性能并降低 CPU 使用率，确保在 Snapdragon X 系列芯片驱动的设备上获得流畅的用户体验。"
+      },
+      {
+        "question": "Windows on Arm 模拟有哪些新功能？",
+        "answer": "我们现在提供比以往更多的原生 Arm64 体验，包括 Teams、PowerPoint、Outlook、Word、Excel、OneDrive 和 OneNote 等 Microsoft 365 应用的最快实现。Chrome、Spotify、Zoom、WhatsApp、Blender、Affinity Suite 和 DaVinci Resolve 等热门应用现在已在 Arm 上原生运行，提供出色的性能。"
+      },
+      {
+        "question": "在 Windows on Arm 上，原生应用和模拟应用有什么区别？",
+        "answer": "原生应用旨在充分利用 Arm64 架构，提供最佳性能和兼容性。模拟应用通过 Prism 模拟引擎运行，最大限度地减少性能损失，确保大多数 x86/x64 应用程序在 Arm64 系统上无缝运行。除了潜在的性能差异外，用户不会注意到明显的区别。"
+      },
+      {
+        "question": "模拟应用的性能如何？",
+        "answer": "Prism 自动处理 x86/x64 应用，将其代码转换为在 Arm 架构上高效运行。Prism 的重大优化与以前的模拟技术相比提高了性能并降低了 CPU 使用率。大多数 x64 应用程序预计在模拟下的性能与原生应用相当。"
+      },
+      {
+        "question": "模拟对电池续航有什么影响？",
+        "answer": "电池续航取决于工作负载，但 Microsoft 已优化模拟效率和原生应用以确保出色的电池续航。然而，资源密集型应用可能比轻量级应用消耗电池更快。"
+      },
+      {
+        "question": "我可以运行不在 Microsoft Store 中的 Windows 程序吗？",
+        "answer": "可以，非 Store 的 Windows 应用可以在 Windows 11 Arm 设备上安装和运行。大多数应用程序通过原生或 Prism 模拟运行，提供流畅的性能。"
+      },
+      {
+        "question": "在哪里可以获得应用兼容性方面的帮助？",
+        "answer": "有关 Windows Arm64 设备上的应用兼容性帮助，请访问 <a href='https://www.microsoft.com/fasttrack/microsoft-365/app-assure' target='_blank' rel='noopener noreferrer'>Microsoft FastTrack 的 App Assure</a>。此服务对符合条件的 Microsoft 365 或 Windows 计划免费提供。App Assure 计划支持自定义业务应用、非 Microsoft 软件，并解决与 Microsoft 365 应用宏和加载项相关的问题。"
+      },
+      {
+        "question": "运行 Windows 11 Arm 设备时应注意哪些限制？",
+        "answer": "硬件、游戏和应用的驱动程序必须专为 Arm 设备设计。外设兼容性取决于 Arm64 驱动程序。如果您的硬件开发商没有 Arm64 驱动程序，请尝试<a href='https://support.microsoft.com/windows/install-a-printer-in-windows-cc0724cf-793e-3542-d1ff-727e4978638b' target='_blank' rel='noopener noreferrer'>通过 Windows 设置安装打印机</a>。依赖 OpenGL 3.3 以上版本或不受支持的反作弊驱动程序的某些游戏可能无法运行。某些自定义应用和防病毒软件除非针对 Arm64 进行优化，否则功能可能受限。Windows 安全中心继续提供全面保护。"
+      },
+      {
+        "question": "在 Windows 11 Arm 设备上使用辅助技术需要了解什么？",
+        "answer": "Windows 11 包含各种<a href='https://www.microsoft.com/Accessibility/windows' target='_blank' rel='noopener noreferrer'>内置辅助功能</a>，并支持 Microsoft Store 中提供的许多辅助技术应用。请与辅助软件供应商或 Microsoft Store 确认您的首选应用是否已针对 Arm 设备进行优化。NVDA 和 JAWS 等流行的屏幕阅读器越来越多地支持 Arm 设备。有关 NVDA 的更多信息，请访问 <a href='https://go.microsoft.com/fwlink/?linkid=867679' target='_blank' rel='noopener noreferrer'>NV Access 网站</a>。"
+      }
+    ]
+  },
+  "footer": {
+    "newsletter": {
+      "title": "保持更新",
+      "subtitle": "获取 Windows on Arm 应用兼容性的最新信息。",
+      "placeholder": "输入您的电子邮件",
+      "subscribe": "订阅"
+    },
+    "columns": {
+      "product": {
+        "title": "产品",
+        "apps": "应用",
+        "games": "游戏",
+        "publishers": "发布商",
+        "customReport": "自定义报告"
+      },
+      "learn": {
+        "title": "学习",
+        "gettingStarted": "入门",
+        "prism": "Prism",
+        "windowsOnArm": "Windows 11",
+        "faq": "常见问题"
+      },
+      "community": {
+        "title": "社区",
+        "github": "GitHub",
+        "reportIssue": "报告问题",
+        "contribute": "贡献数据",
+        "takedown": "内容删除",
+        "contact": "联系我们"
+      },
+      "microsoft": {
+        "title": "Microsoft",
+        "website": "Microsoft.com",
+        "privacy": "隐私",
+        "terms": "使用条款"
+      }
+    },
+    "disclaimer": "本站信息旨在作为指南，但并不绝对保证应用或游戏能够运行。结果已经过测试，但可能无法在您的特定机器和配置上运行。如果您的结果有所不同，请将您的发现贡献到本站。",
+    "copyright": "© {{year}} Linaro. 保留所有权利。所有产品名称、标志、品牌、商标和注册商标均为其各自所有者的财产。数据的准确性不由 Linaro 保证。",
+    "legal": {
+      "privacy": "隐私",
+      "terms": "条款",
+      "cookies": "Cookie"
+    }
+  },
+  "common": {
+    "native": "原生",
+    "emulation": "模拟",
+    "unknown": "未知",
+    "yes": "是",
+    "no": "否",
+    "na": "—",
+    "share": "分享",
+    "copied": "已复制！",
+    "scroll": "了解更多",
+    "loading": "加载中...",
+    "error": "出了点问题",
+    "retry": "重试",
+    "noResults": "未找到结果",
+    "backToHome": "返回首页",
+    "backToApps": "返回应用",
+    "backToGames": "返回游戏",
+    "learnMore": "了解更多",
+    "showingResults": "显示 {{total}} 个中的 {{count}} 个结果",
+    "previous": "上一页",
+    "next": "下一页",
+    "notFound": "未找到",
+    "goBack": "返回",
+    "typeTooltip": {
+      "nativeLabel": "原生",
+      "nativeDesc": "专为Arm构建 — 直接在处理器上运行，性能最佳。",
+      "emulatedLabel": "模拟",
+      "emulatedDesc": "为x86/x64构建 — 通过Prism转换在Arm设备上运行。"
+    }
+  },
+  "filters": {
+    "category": "类别",
+    "developer": "发行商",
+    "compatibility": "兼容性",
+    "type": "类型",
+    "publisher": "发行商",
+    "lastUpdated": "最后更新",
+    "last7Days": "最近7天",
+    "last30Days": "最近30天",
+    "last90Days": "最近90天",
+    "lastYear": "最近1年",
+    "clearAll": "清除全部"
+  },
+  "appDetail": {
+    "compatibility": "兼容性",
+    "emulationType": "类型",
+    "publisher": "发行商",
+    "category": "类别",
+    "categories": "类别",
+    "version": "版本",
+    "lastUpdated": "最后更新",
+    "validation": "验证",
+    "visitWebsite": "访问网站",
+    "getThisApp": "获取此应用",
+    "notes": "备注",
+    "compatibilityDetails": "兼容性详情",
+    "notFound": "找不到您要查找的项目。",
+    "backToApps": "返回应用",
+    "backToGames": "返回游戏"
+  },
+  "learn": {
+    "title": "学习",
+    "subtitle": "深入了解 Windows on Arm 技术、开发最佳实践和平台功能。"
+  },
+  "gettingStarted": {
+    "title": "Windows on Arm 入门",
+    "subtitle": "开始为 Arm 构建所需的一切。"
+  },
+  "prismPage": {
+    "title": "Prism 转换技术",
+    "subtitle": "x86/x64 模拟在 Windows on Arm 上的工作原理。"
+  },
+  "windowsOnArmPage": {
+    "title": "Windows 11 on Arm",
+    "subtitle": "Arm 驱动设备上的完整 Windows 体验。"
+  },
+  "validation": {
+    "microsoft": "Microsoft 已验证",
+    "qualcomm": "Qualcomm 已验证",
+    "developer": "发行商已验证",
+    "community": "社区已验证",
+    "unverified": "未验证"
+  },
+  "games": {
+    "subtitle": "浏览 Windows on Arm 上的游戏兼容性。"
+  },
+  "publisherDetail": {
+    "appCount_one": "{{count}} 个应用",
+    "appCount_other": "{{count}} 个应用",
+    "gameCount_one": "{{count}} 个游戏",
+    "gameCount_other": "{{count}} 个游戏"
+  },
+  "publishers": {
+    "title": "发行商",
+    "subtitle": "浏览在 Windows on Arm 上提供应用和游戏的精选发行商。",
+    "columns": {
+      "name": "发行商",
+      "apps": "应用",
+      "games": "游戏",
+      "total": "总计"
+    },
+    "notFound": "找不到您要查找的发行商。",
+    "backToPublishers": "返回发行商"
+  },
+  "search": {
+    "noResults": "未找到结果",
+    "requestAssistance": "请求协助",
+    "showMore": "显示更多 {{count}} 个",
+    "publisherCount": "{{apps}} 个应用，{{games}} 个游戏"
+  },
+  "customReport": {
+    "subtitle": "创建您自己的应用和游戏列表，检查兼容性、与同事分享、并为设备过渡做好准备。",
+    "searchPlaceholder": "搜索应用和游戏",
+    "share": "分享",
+    "copied": "已复制！",
+    "clearReport": "清除报告",
+    "downloadPdf": "下载PDF",
+    "downloadXlsx": "下载Excel",
+    "viewAll": "所有项目",
+    "viewByCategory": "按类别",
+    "viewByPublisher": "按发行商",
+    "emptyTitle": "报告中还没有项目",
+    "emptyDescription": "从报告页面、应用/游戏表格、详情页面或发行商页面添加应用或游戏。",
+    "uncategorized": "未分类",
+    "unknownPublisher": "未知发行商",
+    "addToReport": "添加到报告",
+    "inReport": "已在报告中",
+    "removeFromReport": "从报告中移除",
+    "add": "添加",
+    "actions": "操作",
+    "addAllPublisherApps": "添加所有应用",
+    "remove": "移除",
+    "reportSubtitle": "自定义应用程序列表的 Arm 设备兼容性报告。",
+    "createdOn": "创建日期：{{date}}",
+    "pageOf": "第 {{current}} 页，共 {{total}} 页",
+    "generatedBy": "由 worksonwoa.com 生成"
+  },
+  "categoryNames": {
+    "accessibility": "辅助功能",
+    "ai": "AI",
+    "ai-tool": "AI 工具",
+    "anti-virus": "杀毒软件",
+    "audio": "音频",
+    "benchmarking": "基准测试",
+    "books": "图书",
+    "browsers": "浏览器",
+    "business": "商业",
+    "cad": "CAD",
+    "collaboration": "协作",
+    "creative": "创意",
+    "data-prot": "数据保护",
+    "database": "数据库",
+    "dev-mgmt": "开发管理",
+    "dev-tools": "开发工具",
+    "ecom": "电子商务",
+    "education": "教育",
+    "emulators": "模拟器",
+    "endpoint-sec": "终端安全",
+    "engineering": "工程",
+    "enterprise": "企业",
+    "entertainment": "娱乐",
+    "food-dining": "美食 & 餐饮",
+    "health": "健康",
+    "healthcare": "医疗保健",
+    "it": "IT",
+    "it-sec-tools": "IT 安全工具",
+    "it-tools-vdi": "IT 工具 VDI",
+    "kids-family": "儿童 & 家庭",
+    "library": "图书馆",
+    "lifestyle": "生活方式",
+    "multimedia": "多媒体",
+    "music": "音乐",
+    "nav": "导航",
+    "news": "新闻",
+    "nw-storage": "网络存储",
+    "oss": "OSS",
+    "personal": "个人",
+    "personalfin": "个人理财",
+    "photo": "照片",
+    "printers": "打印机",
+    "prod": "生产力",
+    "remote-desktop": "远程桌面",
+    "security": "安全",
+    "sports": "体育",
+    "sysinfo": "系统信息",
+    "travel": "旅行",
+    "utils-tools": "实用工具",
+    "video": "视频",
+    "vpn": "VPN",
+    "web-social": "网络社交",
+    "actionandadventure": "动作与冒险",
+    "cardandboard": "卡牌与桌游",
+    "platformer": "平台游戏",
+    "roleplaying": "角色扮演"
+  },
+  "contributing": {
+    "title": "贡献",
+    "subtitle": "帮助我们保持 Windows on Arm 兼容性目录的准确和最新。",
+    "form": {
+      "title": "提交应用请求",
+      "description": "最快的贡献方式是填写我们的应用请求表单。您可以用它来请求添加新的应用或游戏、报告现有条目的错误数据或建议更新。无需编码经验 — 只需填写详细信息，我们会处理其余部分。",
+      "button": "打开应用请求表单"
+    },
+    "github": {
+      "title": "通过 GitHub Pull Request 贡献",
+      "step1": "如果您熟悉 Git 和 JSON，可以通过提交 Pull Request 直接贡献项目数据。",
+      "step2": "1. 在 <a href='https://github.com/Linaro/works-on-woa/fork' target='_blank' rel='noopener noreferrer'>github.com/Linaro/works-on-woa</a> Fork 仓库。",
+      "step3": "2. 将 Fork 克隆到本地，然后进行更改。应用和游戏数据存储在单个文件中：src/data/content/projects.json。每个条目是一个 JSON 对象 — 请参阅下面的架构和示例。",
+      "step4": "3. 提交更改，推送到您的 Fork，然后向主仓库创建 <a href='https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork' target='_blank' rel='noopener noreferrer'>Pull Request</a>。",
+      "step5": "4. 我们建议在提交前在本地运行网站（npm install && npm run dev）以验证您的更改能正确构建。"
+    },
+    "schema": {
+      "title": "项目架构",
+      "description": "所有应用和游戏存储在 <code>src/data/content/projects.json</code> 中。请在 JSON 文件中搜索现有标签/类别/发行商并适当重用。我们的架构验证器将在构建时强制执行此操作，以防止重复和架构扩展。每个条目是包含以下字段的 JSON 对象：",
+      "field": "字段",
+      "type": "类型",
+      "descriptionCol": "描述",
+      "fields": [
+        { "field": "slug", "type": "string", "description": "项目的唯一 URL 安全标识符（例如 <code>visual-studio-code</code>）。" },
+        { "field": "name", "type": "string", "description": "应用或游戏的显示名称。" },
+        { "field": "type", "type": "\"application\" | \"game\"", "description": "此条目是应用程序还是游戏。" },
+        { "field": "icon", "type": "string", "description": "<code>public/icons/</code> 中的图标文件名。最大 512×512。推荐 SVG。" },
+        { "field": "categories", "type": "string[]", "description": "一个或多个类别标识符（参见下方类别）。" },
+        { "field": "publisher", "type": "string", "description": "发行商或开发者的名称。" },
+        { "field": "compatibility", "type": "\"yes\" | \"no\" | \"unknown\"", "description": "<strong>yes</strong>：可在 Windows on Arm 上运行。<strong>no</strong>：不兼容。<strong>unknown</strong>：尚未验证。" },
+        { "field": "emulationType", "type": "\"native\" | \"emulation\" | \"unknown\" | \"na\"", "description": "<strong>native</strong>：为 Arm64 构建。<strong>emulation</strong>：通过 Prism x86/x64 转换运行。<strong>unknown</strong>：未确定。<strong>na</strong>：不适用。" },
+        { "field": "versionFrom", "type": "string", "description": "可选。Arm 兼容性可用的版本。" },
+        { "field": "link", "type": "URL", "description": "可选。软件的下载或主页链接。" },
+        { "field": "validation", "type": "\"microsoft\" | \"qualcomm\" | \"developer\" | \"community\" | \"unverified\"", "description": "验证兼容性状态的主体。" },
+        { "field": "lastUpdated", "type": "date (YYYY-MM-DD)", "description": "此条目最后一次验证或更新的日期。" },
+        { "field": "notes", "type": "string", "description": "可选。有关兼容性或注意事项的附加信息。" },
+        { "field": "shouldShowNotes", "type": "boolean", "description": "是否在详情页面显示备注字段。" }
+      ]
+    },
+    "example": {
+      "title": "条目示例",
+      "description": "以下是 projects.json 中一个应用程序的示例条目：",
+      "code": "{\n  \"slug\": \"visualstudiocode\",\n  \"name\": \"Visual Studio Code\",\n  \"type\": \"application\",\n  \"icon\": \"VisualStudioCode.svg\",\n  \"categories\": [\"dev-tools\"],\n  \"publisher\": \"Microsoft\",\n  \"compatibility\": \"yes\",\n  \"emulationType\": \"native\",\n  \"versionFrom\": \"1.81.1\",\n  \"link\": \"https://apps.microsoft.com/detail/xp9khm4bk9fz7q\",\n  \"validation\": \"microsoft\",\n  \"lastUpdated\": \"2026-03-15\",\n  \"notes\": \"\",\n  \"shouldShowNotes\": false\n}"
+    },
+    "categories": {
+      "title": "类别",
+      "description": "每个项目必须引用一个或多个类别标识符。请使用以下认可的类别：",
+      "tagColumn": "标识符",
+      "nameColumn": "显示名称",
+      "list": [
+        "accessibility", "ai", "ai-tool", "anti-virus", "audio", "benchmarking",
+        "books", "browsers", "business", "cad", "collaboration", "creative",
+        "data-prot", "database", "dev-mgmt", "dev-tools", "ecom", "education",
+        "emulators", "endpoint-sec", "engineering", "enterprise", "entertainment",
+        "food-dining", "health", "healthcare", "it", "it-sec-tools", "it-tools-vdi",
+        "kids-family", "library", "lifestyle", "multimedia", "music", "nav", "news",
+        "nw-storage", "oss", "personal", "personalfin", "photo", "printers", "prod",
+        "remote-desktop", "security", "sports", "sysinfo", "travel", "utils-tools",
+        "video", "vpn", "web-social",
+        "actionandadventure", "cardandboard", "platformer", "roleplaying"
+      ]
+    },
+    "help": {
+      "title": "需要帮助？",
+      "description": "如果您遇到问题或对贡献有疑问，请<a href='https://github.com/Linaro/works-on-woa/issues/new' target='_blank' rel='noopener noreferrer'>打开 GitHub Issue</a>，我们将尽力提供帮助。"
+    }
+  },
+  "takedown": {
+    "title": "内容删除请求",
+    "description": "如果您希望将您的产品或标志从本网站移除，请发送电子邮件至",
+    "suffix": "并提供相关信息。"
+  }
+}
